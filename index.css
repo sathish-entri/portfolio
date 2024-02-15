@@ -1,0 +1,99 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    background-image: url(image_search_1706176652537.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.div-nav{
+    background-color: rgb(22, 24, 23) !important;
+    color: brown;
+    position: fixed;
+    width: 100%;
+    box-shadow: 3px 6px 10px black;
+}
+.pod{
+    padding-left: 2%;
+    font-size: 2rem;
+    color: rgb(0, 225, 255) !important;
+    font-weight: bolder;
+}
+.a{
+    margin-right: 15px;
+    font-weight: bolder !important;
+    color: rgb(255, 255, 255) !important;
+}
+.a:hover{
+    color: rgb(0, 225, 255) !important;
+}
+.a-con{
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    font-weight: bold;
+    padding-left: 15px !important;
+    width: 90px;
+}
+.a-con:hover{
+    color: red !important;
+    background-color: aliceblue;
+}
+spam{
+    color: rgb(0, 255, 255);
+}
+span{
+    color: rgb(112, 112, 211);
+}
+.section-1{
+    padding: 200px;
+    height: 690px;
+    font-weight:
+     bold;
+    color: aliceblue;
+}
+.home-div{
+    display: flex;
+}
+.home-div h4{
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.section-2{
+    background-color: rgb(11, 12, 12);
+    height: 690px;
+    padding-top: 100px;
+}
+.aboutspan{
+    display: flex;
+    font-weight: bolder;
+    color: rgb(174, 253, 253);
+    justify-content: center;
+}
+.introo{
+    padding: 100px;
+    background-color: rgb(43, 40, 40);
+    height: 300px;
+    width: 90%;
+    border-radius: 20px;
+    margin-left: 5%;
+    color: rgb(255, 241, 241);
+}
+.about-skill{
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+}
+.skillbor{
+    background-color: rgb(43, 40, 40);
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+
+
+
+
+
+
+
